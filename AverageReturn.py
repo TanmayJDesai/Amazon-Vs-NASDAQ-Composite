@@ -18,4 +18,3 @@ def NASDAQAvgReturn():
     data_nasdaq['Returns'] = data_nasdaq['Adj Close'].pct_change()
     average_return_rate_nasdaq = data_nasdaq['Returns'].mean() * 100
     print(f"Average Return Rate for NASDAQ Composite: {average_return_rate_nasdaq:.2f}%")
-#A
