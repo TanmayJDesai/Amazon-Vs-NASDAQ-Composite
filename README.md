@@ -1,5 +1,3 @@
-# Amazon vs NASDAQ Composite Stock, Average Return and Average Volatility Comparision
-
 # Stock Analysis: Amazon vs NASDAQ
 
 This project analyzes and compares the stock performance of Amazon and the NASDAQ Composite index over the past 5 years. It includes visualizations of average returns and volatility.
